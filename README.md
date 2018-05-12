@@ -7,4 +7,4 @@ For example: If I am watching one of my favorite shows Halt and Catch Fire and I
 This would give artists another stream of income and allow viewers to connect with actors, designers, or directors in a new way. 
 
 # What else?
-being able to This could also open a new avenue to interactivity in media consumption for example it could be expanded so during the end credits after a movie is finished one could see other movies or tv shows currently playing that includes the actor in the movie or tv show you just finished watching.
+This could open a new avenue to interactivity in media consumption for example it could be expanded so during the end credits after a movie is finished one could see other movies or tv shows currently playing that includes the actor in the movie or tv show you just finished watching.
