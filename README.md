@@ -8,3 +8,5 @@ This would give artists another stream of income and allow viewers to connect wi
 
 # What else?
 This could open a new avenue to interactivity in media consumption for example it could be expanded so during the end credits after a movie is finished one could see other movies or tv shows currently playing that includes the actor in the movie or tv show you just finished watching.
+
+This could also allow the viewer to pause a scene and have information about piece of painting in the background or information on an ad in a billboard in the background be overlayed allowing the viewer to learn more about the content in the world of the movie or tv show they are watching.
